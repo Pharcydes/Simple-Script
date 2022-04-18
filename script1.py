@@ -26,6 +26,3 @@ while a > 0:
     if a == 1:
         continue
     print("Keep going")
-
-    
-
